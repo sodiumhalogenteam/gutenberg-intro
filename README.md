@@ -7,3 +7,6 @@ _Learn the Berg_
 
 ## dev toolkits
 - [create-guten-block](https://github.com/ahmadawais/create-guten-block) - similar to create-react-app. This comes with everything you need to make a block, and also has babel, eslint, and a few other helpful tools added.
+
+## other helpful links
+- [Adding fields into the sidebar](https://stackoverflow.com/questions/48338664/add-fields-in-advanced-block-setting) - start here if you want to add custom fields into the advanced block settings sidebar
